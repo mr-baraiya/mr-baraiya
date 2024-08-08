@@ -5,7 +5,7 @@
 
 <img  width="370px" height="220px" align="right" src="https://camo.githubusercontent.com/0dbe167d7b778f5e825114a095ad46a2c852ba91fc82ec2d4fd8865c67ecd2a1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-baraiya" alt="mr-baraiya" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structure**
 
