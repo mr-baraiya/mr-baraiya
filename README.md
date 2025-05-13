@@ -1,7 +1,8 @@
 <!-- TOP ANIME BANNER -->
 <p align="center">
-  <img src="[https://i.pinimg.com/originals/54/f2/96/54f2962f5bbd39f092db14a3a62f2d54.gi](https://github.com/mr-baraiya/mr-baraiya/blob/main/user.webp)" width="600" alt="anime coder hacking" />
+  <img src="https://github.com/mr-baraiya/mr-baraiya/blob/main/user.webp?raw=true" width="600" alt="anime coder hacking" />
 </p>
+
 
 <h1 align="center">⚔️ Vishal Baraiya</h1>
 <h3 align="center">Anime-Fueled Programmer | LeetCode Warrior | Future Full-Stack Dev </h3>
