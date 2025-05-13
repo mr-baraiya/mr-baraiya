@@ -1,6 +1,6 @@
 <!-- TOP ANIME BANNER -->
 <p align="center">
-  <img src="https://github.com/mr-baraiya/mr-baraiya/blob/main/user.png?raw=true" width="600" alt="anime coder hacking" />
+  <img src="https://github.com/mr-baraiya/mr-baraiya/blob/main/user.PNG?raw=true" width="600" alt="anime coder hacking" />
 </p>
 
 <h1 align="center">⚔️ Vishal Baraiya</h1>
