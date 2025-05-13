@@ -32,12 +32,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-baraiya&show_icons=true&theme=tokyonight&hide=prs" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-baraiya&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-baraiya&show_icons=true&theme=tokyonight&hide=prs" width="48%" style="margin-left: 2px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-baraiya&theme=tokyonight" width="48%" style="margin-right: 2px;" />
 </p>
-
----
-
 
 ---
 
