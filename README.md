@@ -80,12 +80,12 @@
 </p>
 
 ---
-
 ## 🎴 The Anime Dev Vibe
 
 <p align="center">
   <img src="https://media.tenor.com/d9o9Ofn2mhcAAAAC/anime-coding.gif" width="450" />
 </p>
+
 
 <p align="center"><i>"Code. Fail. Fix. Level up. Repeat."</i></p>
 
