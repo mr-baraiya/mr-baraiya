@@ -46,20 +46,16 @@
 </p>
 
 <p align="center">
-  <b>⚡ Let’s team up — like Luffy & Zoro, or Killua & Gon.</b>  
-  <i>Coding collabs, dev talks, or anime rants — I’m all in.</i>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/vishalbhai-baraiya-0930182b7" target="_blank" style="text-decoration:none;">
+  <a href="https://linkedin.com/in/vishalbhai-baraiya-0930182b7" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LinkedIn_Logo_2023.png" height="50" alt="LinkedIn" />
-    <span style="font-size: 18px; color: #0077b5; font-weight: bold;">Connect with me on LinkedIn</span>
   </a>
+  <span>Connect with me on LinkedIn</span>
 </p>
 
 <p align="center">
-  <a href="mailto:baraiyavishalbhai32@gmail.com" target="_blank" style="text-decoration:none;">
+  <a href="mailto:baraiyavishalbhai32@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Gmail_Icon.png" height="50" alt="Gmail" />
-    <span style="font-size: 18px; color: #db4437; font-weight: bold;">Shoot me an email</span>
   </a>
+  <span>Shoot me an email</span>
 </p>
+
