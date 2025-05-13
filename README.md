@@ -50,4 +50,9 @@
     <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" height="50" alt="LinkedIn" />
   </a>
 </p>
- 📫 How to reach me **baraiyavishalbhai32@gmail.com**
+## 📫 How to reach me
+
+<p>
+  You can contact me via email: <strong>baraiyavishalbhai32@gmail.com</strong>
+</p>
+
