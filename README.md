@@ -12,15 +12,13 @@
 
 ---
 
-##  About Me
-  
-```txt
+## About Me
+
 📈 Solved 400+ LeetCode problems — mastering algorithms, one problem at a time.  
 🛠️ Currently diving deep into ASP.NET Core to build scalable, high-performance applications.  
 👾 Anime enthusiast | Logical thinker | Relentless problem solver — no bug too tough.  
-🚀 On a mission to innovate, learn, and create impactful projects that push the boundaries of tech.  
+🚀 On a mission to innovate, learn, and create impactful projects that push the boundaries of tech.
 
-```
 ---
 
 ## ⚡ Tech Arsenal
@@ -55,16 +53,15 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vishalbhai-baraiya-0930182b7" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  &nbsp;
-  <a href="mailto:baraiyavishalbhai32@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/mr-baraiya" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <a href="https://linkedin.com/in/vishalbhai-baraiya-0930182b7" target="_blank" style="text-decoration:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LinkedIn_Logo_2023.png" height="50" alt="LinkedIn" />
+    <span style="font-size: 18px; color: #0077b5; font-weight: bold;">Connect with me on LinkedIn</span>
   </a>
 </p>
----
+
+<p align="center">
+  <a href="mailto:baraiyavishalbhai32@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Gmail_Icon.png" height="50" alt="Gmail" />
+    <span style="font-size: 18px; color: #db4437; font-weight: bold;">Shoot me an email</span>
+  </a>
+</p>
