@@ -1,27 +1,32 @@
-<!-- TOP ANIME BANNER -->
-<p align="center">
-  <img src="https://github.com/mr-baraiya/mr-baraiya/blob/main/user.webp?raw=true" width="600" alt="anime coder hacking" />
+<!-- PROFILE SECTION SIDE-BY-SIDE -->
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/mr-baraiya/mr-baraiya/blob/main/user.webp?raw=true" width="100%" alt="anime coder hacking" />
+    </td>
+    <td width="50%" valign="top">
+
+<h1 align="left">⚔️ Vishal Baraiya</h1>
+<h3 align="left">Anime-Fueled Programmer | LeetCode Warrior | Future Full-Stack Dev</h3>
+
+<p align="left">
+📈 Solved <b>400+</b> LeetCode problems — mastering algorithms, one problem at a time. <br>
+🛠️ Currently diving deep into <b>ASP.NET Core</b> to build scalable, high-performance applications. <br>
+👾 Anime enthusiast | Logical thinker | Relentless problem solver — no bug too tough. <br>
+🚀 On a mission to innovate, learn, and create impactful projects that push the boundaries of tech.
 </p>
 
+<p align="left">
+<b>Email:</b> <a href="mailto:baraiyavishalbhai32@gmail.com">baraiyavishalbhai32@gmail.com</a>
+</p>
 
-<h1 align="center">⚔️ Vishal Baraiya</h1>
-<h3 align="center">Anime-Fueled Programmer | LeetCode Warrior | Future Full-Stack Dev </h3>
-
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=mr-baraiya&label=Profile%20views&color=7f00ff&style=flat" alt="Profile Views" />
 </p>
 
----
-
-## About Me
-
-📈 Solved 400+ LeetCode problems — mastering algorithms, one problem at a time.  
-🛠️ Currently diving deep into ASP.NET Core to build scalable, high-performance applications.  
-👾 Anime enthusiast | Logical thinker | Relentless problem solver — no bug too tough.  
-🚀 On a mission to innovate, learn, and create impactful projects that push the boundaries of tech.
-<p>
-  <b>Email:</b> <a href="mailto:baraiyavishalbhai32@gmail.com">baraiyavishalbhai32@gmail.com</a>
-</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
