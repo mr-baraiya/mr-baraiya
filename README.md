@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">⚔️ Vishal Baraiya</h1>
-<h3 align="center">Anime-Fueled Programmer | LeetCode Warrior | Future Full-Stack Dev 🧠</h3>
+<h3 align="center">Anime-Fueled Programmer | LeetCode Warrior | Future Full-Stack Dev </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mr-baraiya&label=Profile%20views&color=7f00ff&style=flat" alt="Profile Views" />
@@ -12,17 +12,15 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 <table>
 <tr>
 <td width="60%">
   
 ```txt
-💻 20 y/o self-taught dev on a mission.  
-⚔️ Coded through errors like anime protagonists fight villains.  
-📈 Solved 365+ LeetCode problems — just getting started.  
-🛠️ Currently learning: ASP.NET Core | Full-Stack Dev | System Design  
+📈 Solved 400+ LeetCode problems — just getting started.  
+🛠️ Currently learning: ASP.NET Core
 👾 Anime lover | Deep thinker | Never backs down from bugs  
 
 ```
@@ -32,17 +30,7 @@
 
 | 🧠 Languages | 🎨 Frontend | 🔧 Backend | 🗄️ DB | ⚙️ Tools |
 |-------------|------------|-----------|--------|-----------|
-| C, Java, JS, Python | HTML, CSS, React | Node.js, Express, .NET Core | MongoDB, SQL Server | Git, Docker, Postman |
-
----
-
-## 🔥 My Projects
-
-| Project | Description |
-|--------|-------------|
-| [⚔️ LeetCode Solutions](https://github.com/mr-baraiya/LeetCode-Solutions) | Solved 365+ problems across all DSA topics |
-| [🚀 ASP.NET Core API](https://github.com/mr-baraiya/asp-dotnet-core-api) | REST API built using ASP.NET Core — clean and scalable |
-| [⚙️ Full Stack Setup](https://github.com/mr-baraiya/fullstack-react-node) *(WIP)* | MERN Stack base project with future goals |
+| C, Java, JS, Python | HTML, CSS, React | Node.js, Express, .NET Core | MongoDB, SQL Server | Git, Postman |
 
 ---
 
