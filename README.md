@@ -30,12 +30,12 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-baraiya&show_icons=true&theme=tokyonight&hide=prs" width="45%" style="margin-right: 20px; display: inline-block;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-baraiya&theme=tokyonight" width="45%" style="margin-left: 20px; display: inline-block;" />
+  <div style="display: flex; justify-content: space-between; width: 90%; margin: 0 auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mr-baraiya&show_icons=true&theme=tokyonight&hide=prs" width="45%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-baraiya&theme=tokyonight" width="45%" />
+  </div>
 </p>
-
 ---
 
 ## 🔗 Connect with Me
