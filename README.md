@@ -38,22 +38,20 @@
 </p>
 
 ---
-
 ## 🔗 Connect with Me
 
-<p align="center">
-  <img src="https://media.tenor.com/PwHjD7FHFHMAAAAC/anime-hacker.gif" width="300" alt="Hacker Anime" />
-</p>
-
-<p align="center">
+<p>
+  <b>Connect with me:</b> 
   <a href="https://linkedin.com/in/vishalbhai-baraiya-0930182b7" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" height="50" alt="LinkedIn" />
+    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" height="30" alt="LinkedIn" />
   </a>
 </p>
+
 ---
+
 ## 📫 How to reach me
 
 <p>
-  You can contact me via email: <strong>baraiyavishalbhai32@gmail.com</strong>
+  <b>Email:</b> <a href="mailto:baraiyavishalbhai32@gmail.com">baraiyavishalbhai32@gmail.com</a>
 </p>
 
