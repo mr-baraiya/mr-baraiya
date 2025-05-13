@@ -1,25 +1,30 @@
-<!-- SPLIT LAYOUT: 60% Text | 40% Image -->
-<table>
-  <tr>
-    <td width="60%" valign="top" align="left">
-      <h1>⚔️ Vishal Baraiya</h1>
-      <h3>Anime-Fueled Programmer | LeetCode Warrior | Future Full-Stack Dev</h3>
-      <p>
-        📈 <strong>400+</strong> LeetCode problems solved — mastering algorithms one step at a time.<br>
-        🛠️ Currently diving deep into <strong>ASP.NET Core</strong> for building powerful apps.<br>
-        👾 Anime enthusiast | Logical thinker | Relentless bug hunter.<br>
-        🚀 Always pushing boundaries with code, curiosity, and creativity.
-      </p>
-      <p>
-        📧 <strong>Email:</strong> <a href="mailto:baraiyavishalbhai32@gmail.com">baraiyavishalbhai32@gmail.com</a><br>
-        👁️‍🗨️ <img src="https://komarev.com/ghpvc/?username=mr-baraiya&label=Profile%20views&color=7f00ff&style=flat" alt="Profile Views" />
-      </p>
-    </td>
-    <td width="40%" align="right">
-      <img src="https://github.com/mr-baraiya/mr-baraiya/blob/main/user.webp?raw=true" width="280" alt="Anime Coder" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+<!-- TOP ANIME BANNER -->
+<p align="center">
+  <img src="https://github.com/mr-baraiya/mr-baraiya/blob/main/user.webp?raw=true" width="600" alt="anime coder hacking" />
+</p>
+
+<h1 align="center">⚔️ Vishal Baraiya</h1>
+<h3 align="center">Anime-Fueled Programmer | LeetCode Warrior | Future Full-Stack Dev</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mr-baraiya&label=Profile%20views&color=7f00ff&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 🧠 About Me
+
+<p align="center">
+📈 Solved <b>400+</b> LeetCode problems — mastering algorithms, one problem at a time. <br>
+🛠️ Currently diving deep into <b>ASP.NET Core</b> to build scalable, high-performance applications. <br>
+👾 Anime enthusiast | Logical thinker | Relentless problem solver — no bug too tough. <br>
+🚀 On a mission to innovate, learn, and create impactful projects that push the boundaries of tech.
+</p>
+
+<p align="center">
+  <b>Email:</b> <a href="mailto:baraiyavishalbhai32@gmail.com">baraiyavishalbhai32@gmail.com</a>
+</p>
+
 ---
 
 ## ⚡ Tech Arsenal
