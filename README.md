@@ -71,32 +71,25 @@
 ## 🔗 Connect with Me
 
 <p align="center">
+  <img src="https://media.tenor.com/PwHjD7FHFHMAAAAC/anime-hacker.gif" width="300" alt="Hacker Anime" />
+</p>
+
+<p align="center">
+  <b>⚡ Let’s team up — like Luffy & Zoro, or Killua & Gon.</b>  
+  <i>Coding collabs, dev talks, or anime rants — I’m all in.</i>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/vishalbhai-baraiya-0930182b7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
+  &nbsp;
   <a href="mailto:baraiyavishalbhai32@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/mr-baraiya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
 </p>
-
 ---
-## 🎴 The Anime Dev Vibe
-
-<p align="center">
-  <img src="https://media.tenor.com/d9o9Ofn2mhcAAAAC/anime-coding.gif" width="450" />
-</p>
-
-
-<p align="center"><i>"Code. Fail. Fix. Level up. Repeat."</i></p>
-
----
-
-## ☕ Power Combo
-
-```txt
-Anime + LeetCode + Dark Coffee + Debugging at 2AM = 🔥
-```
-
-<p align="center">
-  <img src="https://media.tenor.com/wybmSskONNUAAAAd/akudama-drive-hacker.gif" width="450" />
-</p>
