@@ -49,7 +49,5 @@
   <a href="https://linkedin.com/in/vishalbhai-baraiya-0930182b7" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" height="50" alt="LinkedIn" />
   </a>
-  <a href="mailto:baraiyavishalbhai32@gmail.com" target="_blank">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/4/43/Gmail_Icon.png](https://cdn-icons-png.flaticon.com/128/5968/5968534.png)" height="50" alt="Gmail" />
-  </a>
 </p>
+ 📫 How to reach me **baraiyavishalbhai32@gmail.com**
