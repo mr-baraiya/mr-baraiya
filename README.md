@@ -1,7 +1,7 @@
-<!-- SPLIT LAYOUT: Text Left | Image Right -->
+<!-- SPLIT LAYOUT: 60% Text | 40% Image -->
 <table>
   <tr>
-    <td width="55%" align="left" valign="top">
+    <td width="60%" valign="top" align="left">
       <h1>⚔️ Vishal Baraiya</h1>
       <h3>Anime-Fueled Programmer | LeetCode Warrior | Future Full-Stack Dev</h3>
       <p>
@@ -15,12 +15,11 @@
         👁️‍🗨️ <img src="https://komarev.com/ghpvc/?username=mr-baraiya&label=Profile%20views&color=7f00ff&style=flat" alt="Profile Views" />
       </p>
     </td>
-    <td width="45%" align="right">
-      <img src="https://github.com/mr-baraiya/mr-baraiya/blob/main/user.webp?raw=true" width="350" alt="Anime Coder" style="border-radius: 12px;" />
+    <td width="40%" align="right">
+      <img src="https://github.com/mr-baraiya/mr-baraiya/blob/main/user.webp?raw=true" width="280" alt="Anime Coder" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
-
 ---
 
 ## ⚡ Tech Arsenal
