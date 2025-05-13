@@ -13,15 +13,12 @@
 ---
 
 ##  About Me
-
-<table>
-<tr>
-<td width="60%">
   
 ```txt
-📈 Solved 400+ LeetCode problems — just getting started.  
-🛠️ Currently learning: ASP.NET Core
-👾 Anime lover | Deep thinker | Never backs down from bugs  
+📈 Solved 400+ LeetCode problems — mastering algorithms, one problem at a time.  
+🛠️ Currently diving deep into ASP.NET Core to build scalable, high-performance applications.  
+👾 Anime enthusiast | Logical thinker | Relentless problem solver — no bug too tough.  
+🚀 On a mission to innovate, learn, and create impactful projects that push the boundaries of tech.  
 
 ```
 ---
