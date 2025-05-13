@@ -14,13 +14,17 @@
 
 ## 🧠 About Me
 
+<table>
+<tr>
+<td width="60%">
+  
 ```txt
-💻 20 y/o self-taught dev on a mission.
-⚔️ Coded through errors like anime protagonists fight villains.
-📈 Solved 365+ LeetCode problems — just getting started.
-🛠️ Currently learning: ASP.NET Core | Full-Stack Dev | System Design
-👾 Anime lover | Deep thinker | Never backs down from bugs
-```
+💻 20 y/o self-taught dev on a mission.  
+⚔️ Coded through errors like anime protagonists fight villains.  
+📈 Solved 365+ LeetCode problems — just getting started.  
+🛠️ Currently learning: ASP.NET Core | Full-Stack Dev | System Design  
+👾 Anime lover | Deep thinker | Never backs down from bugs  
+
 
 ---
 
@@ -54,17 +58,6 @@
 
 ---
 
-## 🧩 LeetCode Grind
-
-```txt
-🧠 365+ problems solved
-⚔️ Strong in DP, Trees, Graphs, Backtracking
-🎯 Target: 500+ by end of this year
-```
-
-<p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" />
-</p>
 
 ---
 
