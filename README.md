@@ -18,6 +18,9 @@
 🛠️ Currently diving deep into ASP.NET Core to build scalable, high-performance applications.  
 👾 Anime enthusiast | Logical thinker | Relentless problem solver — no bug too tough.  
 🚀 On a mission to innovate, learn, and create impactful projects that push the boundaries of tech.
+<p>
+  <b>Email:</b> <a href="mailto:baraiyavishalbhai32@gmail.com">baraiyavishalbhai32@gmail.com</a>
+</p>
 
 ---
 
@@ -45,7 +48,3 @@
     <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" height="30" alt="LinkedIn" />
   </a>
 </p>
-<p>
-  <b>Email:</b> <a href="mailto:baraiyavishalbhai32@gmail.com">baraiyavishalbhai32@gmail.com</a>
-</p>
-
