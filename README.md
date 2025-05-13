@@ -25,7 +25,7 @@
 🛠️ Currently learning: ASP.NET Core | Full-Stack Dev | System Design  
 👾 Anime lover | Deep thinker | Never backs down from bugs  
 
-
+```
 ---
 
 ## ⚡ Tech Arsenal
