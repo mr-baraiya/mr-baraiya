@@ -1,8 +1,3 @@
-<!-- TOP ANIME BANNER -->
-<p align="center">
-  <img src="https://github.com/mr-baraiya/mr-baraiya/blob/main/demo.jpg?raw=true" width="600" alt="anime coder hacking" />
-</p>
- 
 <h1 align="center">⚔️ Vishal Baraiya</h1>
 <h3 align="center">Anime-Fueled Programmer | LeetCode Warrior | Future Full-Stack Dev</h3>
 
@@ -10,6 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=mr-baraiya&label=Profile%20views&color=7f00ff&style=flat" alt="Profile Views" />
 </p>
 
+---
+
+<!-- TOP ANIME BANNER -->
+<p align="center">
+  <img src="https://github.com/mr-baraiya/mr-baraiya/blob/main/demo.jpg?raw=true" width="600" alt="anime coder hacking" />
+</p>
 ---
 
 ## 🧠 About Me
