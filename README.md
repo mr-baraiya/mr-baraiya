@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://github.com/mr-baraiya/mr-baraiya/blob/main/demo.jpg?raw=true" width="600" alt="anime coder hacking" />
 </p>
----
 
 ## 🧠 About Me
 
