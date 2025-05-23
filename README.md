@@ -23,7 +23,7 @@
     </td>
     <!-- Image on the Right -->
     <td style="width: 40%; text-align: center;">
-      <img src="https://github.com/mr-baraiya/mr-baraiya/blob/main/demo.jpg?raw=true" width="300" alt="anime coder hacking" />
+      <img src="https://github.com/mr-baraiya/mr-baraiya/blob/main/demo3.jpg?raw=true" width="300" alt="anime coder hacking" />
     </td>
   </tr>
 </table>
