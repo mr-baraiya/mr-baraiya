@@ -9,7 +9,7 @@
 <table>
   <tr>
     <!-- About Me Text on the Left -->
-    <td style="vertical-align: top; padding-right: 20px;">
+    <td style="width: 60%; vertical-align: top; padding-right: 20px;">
       <h2>🧠 About Me</h2>
       <p>
         📈 Solved <b>400+</b> LeetCode problems — mastering algorithms, one problem at a time. <br>
@@ -22,7 +22,7 @@
       </p>
     </td>
     <!-- Image on the Right -->
-    <td>
+    <td style="width: 40%; ">
       <img src="https://github.com/mr-baraiya/mr-baraiya/blob/main/demo.jpg?raw=true" width="300" alt="anime coder hacking" />
     </td>
   </tr>
