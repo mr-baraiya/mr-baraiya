@@ -6,24 +6,27 @@
 </p>
 
 ---
+<!-- TOP ANIME BANNER WITH ABOUT ME -->
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <!-- About Me Section -->
+  <div style="flex: 1; min-width: 300px;">
+    <h2>🧠 About Me</h2>
+    <p>
+      📈 Solved <b>400+</b> LeetCode problems — mastering algorithms, one problem at a time. <br>
+      🛠️ Currently diving deep into <b>ASP.NET Core</b> to build scalable, high-performance applications. <br>
+      👾 Anime enthusiast | Logical thinker | Relentless problem solver — no bug too tough. <br>
+      🚀 On a mission to innovate, learn, and create impactful projects that push the boundaries of tech.
+    </p>
+    <p>
+      <b>Email:</b> <a href="mailto:baraiyavishalbhai32@gmail.com">baraiyavishalbhai32@gmail.com</a>
+    </p>
+  </div>
 
-<!-- TOP ANIME BANNER -->
-<p align="center">
-  <img src="https://github.com/mr-baraiya/mr-baraiya/blob/main/demo.jpg?raw=true" width="600" alt="anime coder hacking" />
-</p>
-
-## 🧠 About Me
-
-<p align="center">
-📈 Solved <b>400+</b> LeetCode problems — mastering algorithms, one problem at a time. <br>
-🛠️ Currently diving deep into <b>ASP.NET Core</b> to build scalable, high-performance applications. <br>
-👾 Anime enthusiast | Logical thinker | Relentless problem solver — no bug too tough. <br>
-🚀 On a mission to innovate, learn, and create impactful projects that push the boundaries of tech.
-</p>
-
-<p align="center">
-  <b>Email:</b> <a href="mailto:baraiyavishalbhai32@gmail.com">baraiyavishalbhai32@gmail.com</a>
-</p>
+  <!-- Image Section -->
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img src="https://github.com/mr-baraiya/mr-baraiya/blob/main/demo.jpg?raw=true" width="100%" alt="anime coder hacking" style="max-width: 400px; border-radius: 10px;" />
+  </div>
+</div>
 
 ---
 
