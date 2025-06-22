@@ -42,7 +42,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mr-baraiya&show_icons=true&theme=tokyonight&hide=prs" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-baraiya&theme=tokyonight" width="45%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mr-baraiya&theme=tokyonight" width="45%" alt="GitHub Streak" />
+
 </p>
 
 ---
