@@ -40,11 +40,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <div style="display: flex; justify-content: space-evenly; width: 90%; margin: 0 auto;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mr-baraiya&show_icons=true&theme=tokyonight&hide=prs" width="45%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-baraiya&theme=tokyonight" width="45%" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-baraiya&show_icons=true&theme=tokyonight&hide=prs&rank_icon=github" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=mr-baraiya&theme=tokyonight" width="45%" />
 </p>
+
 
 ---
 ## 🔗 Connect with Me
