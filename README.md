@@ -39,12 +39,15 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mr-baraiya&show_icons=true&theme=tokyonight&hide=prs" width="45%" />
   <!-- Replace the URL below after self-hosting -->
   <img src="https://streak-stats.demolab.com?user=mr-baraiya&theme=tokyonight" width="45%" />
 </p>
+
 ---
+
 ## 🔗 Connect with Me
 
 <p>
