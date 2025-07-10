@@ -12,7 +12,7 @@
     <td style="width: 60%; vertical-align: top; padding-right: 20px;">
       <h2>🧠 About Me</h2>
       <p>
-        📈 Solved <b>400+</b> LeetCode problems — mastering algorithms, one problem at a time. <br>
+        📈 Solved <b>200+</b> LeetCode problems — mastering algorithms, one problem at a time. <br>
         🛠️ Currently diving deep into <b>ASP.NET Core</b> to build scalable, high-performance applications. <br>
         👾 Anime enthusiast | Logical thinker | Relentless problem solver — no bug too tough. <br>
         🚀 On a mission to innovate, learn, and create impactful projects that push the boundaries of tech.
