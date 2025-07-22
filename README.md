@@ -41,8 +41,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-baraiya&show_icons=true&theme=tokyonight&hide=prs" width="45%" />
-  <img src="https://mr-baraiya-streaks.vercel.app?user=mr-baraiya&theme=tokyonight" width="45%" />
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-baraiya&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-baraiya&layout=compact&theme=radical)](https://github.com/mr-baraiya/AgroSmart)
 </p>
 
 ---
