@@ -41,9 +41,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-baraiya&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-baraiya&layout=compact&theme=radical)](https://github.com/mr-baraiya/AgroSmart)
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-baraiya&show_icons=true&theme=radical" alt="Your GitHub stats" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/mr-baraiya/AgroSmart">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-baraiya&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</p>
+
 
 ---
 
