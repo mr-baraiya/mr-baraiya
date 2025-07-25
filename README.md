@@ -50,7 +50,7 @@
 ## 🔗 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/vishalbhai-baraiya-0930182b7" target="_blank">
+  <a href="https://www.linkedin.com/in/baraiya-vishalbhai/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" height="30" alt="LinkedIn" />
   </a>
 </p>
