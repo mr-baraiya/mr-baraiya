@@ -1,21 +1,17 @@
 <h1 align="center">⚔️ Vishal Baraiya</h1>
 <h3 align="center">Anime-Fueled Programmer | LeetCode Warrior | Future Full-Stack Dev</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mr-baraiya&label=Profile%20views&color=7f00ff&style=flat" alt="Profile Views" />
-</p>
-
 ---
 <table>
   <tr>
     <!-- About Me Text on the Left -->
     <td style="width: 60%; vertical-align: top; padding-right: 20px;">
-      <h2>🧠 About Me</h2>
+      <h2>About Me</h2>
       <p>
-        📈 Solved <b>200+</b> LeetCode problems — mastering algorithms, one problem at a time. <br>
-        🛠️ Currently diving deep into <b>ASP.NET Core</b> to build scalable, high-performance applications. <br>
-        👾 Anime enthusiast | Logical thinker | Relentless problem solver — no bug too tough. <br>
-        🚀 On a mission to innovate, learn, and create impactful projects that push the boundaries of tech.
+        Solved <b>200+</b> LeetCode problems — mastering algorithms, one problem at a time. <br>
+        Currently diving deep into <b>ASP.NET Core</b> to build scalable, high-performance applications. <br>
+        Anime enthusiast | Logical thinker | Relentless problem solver — no bug too tough. <br>
+        On a mission to innovate, learn, and create impactful projects that push the boundaries of tech.
       </p>
       <p>
         <b>Email:</b> <a href="mailto:baraiyavishalbhai32@gmail.com">baraiyavishalbhai32@gmail.com</a>
@@ -30,15 +26,15 @@
 
 ---
 
-## ⚡ Tech Arsenal
+## Tech Arsenal
 
-| 🧠 Languages | 🎨 Frontend | 🔧 Backend | 🗄️ DB | ⚙️ Tools |
+| Languages | Frontend | Backend | DB | Tools |
 |-------------|------------|-----------|--------|-----------|
-| C, Java, JS, Python | HTML, CSS, React | Node.js, Express, .NET Core | MongoDB, SQL Server | Git, Postman |
+| C, Java, Python | ASP .NET Core, React | Node.js, Express.js, .NET Core Web API, Flask| MongoDB, SQL Server, PostgreSQL | Git, Postman |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mr-baraiya&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
@@ -47,7 +43,7 @@
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 
 <p>
   <a href="https://www.linkedin.com/in/baraiya-vishalbhai/" target="_blank">
