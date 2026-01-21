@@ -1,4 +1,3 @@
-```md
 # Basic Folder Structure (Vite + React)
 
 ```
