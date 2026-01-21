@@ -1,6 +1,5 @@
 # Basic Folder Structure (Vite + React)
 
-```
 
 ```
 project-root/
