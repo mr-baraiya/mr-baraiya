@@ -1,0 +1,95 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+          <meta charset="UTF-8" />
+          <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+          <meta name="description" content="Your description here" />
+          <title>Md2File.com document</title>
+      </head>
+      <body><h1>ImpactMeter Logic Document (Current Rule-Based Version)</h1>
+<p>This document describes the current ImpactMeter scoring logic implemented in this repository.</p>
+<h2>1. Problem</h2>
+<p>Traditional cricket metrics (average, strike rate, wickets) often miss the full match story because they do not directly encode context and pressure.</p>
+<p>ImpactMeter addresses this by combining performance with match situation.</p>
+<p>Core goal:</p>
+<p><code>Impact = Performance x Match Context x Game Situation</code></p>
+<h2>2. Data Pipeline</h2>
+<pre><code class="language-text">Raw IPL JSON
+      ↓
+Ball-by-ball dataset
+      ↓
+Feature Engineering
+      ↓
+Rule-Based Impact Calculation
+      ↓
+Impact Score (0–100)
+      ↓
+Rolling last 10 innings
+</code></pre>
+<p>Instead of training a machine learning model, ImpactMeter currently uses a rule-based scoring system that combines engineered cricket features with weighted scoring logic.</p>
+<h2>3. Impact Score Calculation</h2>
+<p>Impact score is computed using transparent weighted scoring logic.</p>
+<pre><code class="language-text">Impact Score =
+0.4 x Performance Score
++ 0.35 x Context Score
++ 0.25 x Pressure Score
+</code></pre>
+<p>Then normalize to a common scale:</p>
+<p>Impact Score is normalized to a 0-100 scale using min-max scaling.</p>
+<p>Where:</p>
+<h3>Performance Score</h3>
+<p>Measures direct cricket contribution.</p>
+<p>Example inputs:</p>
+<ul>
+<li>Runs Scored</li>
+<li>Strike Rate</li>
+<li>Boundaries</li>
+<li>Wickets Taken</li>
+<li>Economy Rate</li>
+</ul>
+<h3>Context Score</h3>
+<p>Captures match situation.</p>
+<p>Example inputs:</p>
+<ul>
+<li>Match phase (powerplay / middle / death)</li>
+<li>Opposition strength</li>
+<li>Team score context</li>
+</ul>
+<h3>Pressure Score</h3>
+<p>Reflects difficulty of the situation.</p>
+<p>Example conceptual formula:</p>
+<p><code>Pressure = Required Run Rate x Wickets Lost Factor x Overs Remaining Factor</code></p>
+<h2>4. Why Rule-Based Approach</h2>
+<p>A rule-based approach was chosen to maintain transparency and interpretability of the impact score.</p>
+<p>Each component of the score can be directly traced to cricket performance metrics, making the system easy to understand for analysts and non-technical users.</p>
+<p>This level of explainability is useful for both technical reviewers and cricket analysts.</p>
+<h2>5. Rolling Impact</h2>
+<p>Final player form signal uses recent-match weighting.</p>
+<pre><code class="language-text">Final Impact = Weighted average of last 10 matches
+</code></pre>
+<p>Recent matches receive higher weight.</p>
+<p>Example weights:</p>
+<ul>
+<li>Match10 -&gt; weight 1.0</li>
+<li>Match9 -&gt; weight 0.9</li>
+<li>Match8 -&gt; weight 0.8</li>
+</ul>
+<p>This helps ImpactMeter capture current form, not just long-term average.</p>
+<h2>6. Role-Aware Evaluation</h2>
+<p>ImpactMeter evaluates players differently based on role.</p>
+<p>Batters are evaluated using batting metrics such as runs, strike rate, and boundaries.</p>
+<p>Bowlers are evaluated using bowling metrics such as wickets, economy rate, and dot ball percentage.</p>
+<p>All-rounders are evaluated using a balanced combination of batting and bowling metrics.</p>
+<p>This prevents bowlers from being incorrectly evaluated using batting-only statistics.</p>
+<p>This directly addresses role-mismatch issues in player evaluation.</p>
+<h2>7. Future Improvements</h2>
+<p>ImpactMeter currently uses a transparent rule-based scoring system to compute player impact using performance, match context, and pressure indicators.</p>
+<p>As a future improvement, we plan to extend the system with machine learning models such as Random Forest to learn patterns directly from ball-by-ball data.</p>
+<p>This would allow the system to automatically learn relationships between match context, pressure situations, and player performance while still keeping the rule-based score as an interpretable baseline.</p>
+<p>This hybrid approach would combine:</p>
+<ul>
+<li>explainability from rule-based scoring</li>
+<li>pattern learning from machine learning models</li>
+</ul>
+<pre><code>
+</code></pre>
+
+      </body></html>
