@@ -32,22 +32,82 @@ baraiyavishalbhai32@gmail.com
 
 ---
 
-# Tech Stack
+## Tech Stack & Skills
 
-### Languages
-C • Java • Python • JavaScript
+<table>
+<tr>
 
-### Backend
-ASP.NET Core • Node.js • Express.js • Flask
+<td width="50%" valign="top">
 
-### Frontend
-React • HTML • CSS
+### Tech Stack
 
-### Databases
-MongoDB • SQL Server • PostgreSQL
+**Languages**
+- C
+- Java
+- Python
+- JavaScript
+- C#
 
-### Tools
-Git • GitHub • Postman • VS Code
+**Frontend**
+- React
+- Next.js
+- HTML
+- CSS
+
+**Backend**
+- ASP.NET Core
+- Node.js
+- Express.js
+- NestJS
+- Flask
+
+**Databases**
+- MongoDB
+- SQL Server
+- PostgreSQL
+
+**AI / Data**
+- Machine Learning
+- Deep Learning
+
+**DevOps**
+- Git
+- GitHub
+- Docker
+- CI/CD (Basics)
+
+**Tools**
+- Postman
+- VS Code
+- Visual Studio
+- SSMS
+
+</td>
+
+<td width="50%" valign="top">
+
+### Skills
+
+- Data Structures & Algorithms
+- Problem Solving
+- Backend Development
+- API Design
+- REST API Development
+- System Design (Learning)
+- Debugging & Optimization
+- Open Source Contribution
+
+### Currently Learning
+
+- Blockchain
+- Advanced Backend Architecture
+- Machine Learning  
+- Deep Learning  
+
+</td>
+
+</tr>
+</table>
 
 ---
 
