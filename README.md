@@ -118,14 +118,19 @@ baraiyavishalbhai32@gmail.com
 
 # Open Source Contributions
 
-Contributor to **Webpack Documentation**
+Contributor to **[Webpack Documentation](https://github.com/webpack/webpack.js.org)**
 
-Key contributions:
+### Key Contributions
 
 - Fixed stale timeout bug in `CodeBlockWithCopy`
 - Improved accessibility and semantic markup
 - Fixed documentation typos and broken links
-- Multiple PRs merged in the repository
+- Multiple pull requests merged in the repository
+
+### Example PRs
+
+- https://github.com/webpack/webpack.js.org/pull/7999
+- https://github.com/webpack/webpack.js.org/pull/7998
 
 ---
 
@@ -172,6 +177,6 @@ Key contributions:
 </a>
 
 <a href="https://x.com/baraiya1014">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968830.png" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="35"/>
 </a>
 </p>
