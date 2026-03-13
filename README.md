@@ -122,15 +122,13 @@ Contributor to **[Webpack Documentation](https://github.com/webpack/webpack.js.o
 
 ### Key Contributions
 
-- Fixed stale timeout bug in `CodeBlockWithCopy`
-- Improved accessibility and semantic markup
-- Fixed documentation typos and broken links
-- Multiple pull requests merged in the repository
+* Fixed stale timeout bug in `CodeBlockWithCopy`
+* Improved accessibility and semantic markup
+* Replaced invalid `<a>` elements with accessible buttons
+* Fixed documentation typos and broken links
 
-### Example PRs
-
-- https://github.com/webpack/webpack.js.org/pull/7999
-- https://github.com/webpack/webpack.js.org/pull/7998
+**View all contributions:**
+https://github.com/webpack/webpack.js.org/pulls?q=is%3Apr+author%3Amr-baraiya
 
 ---
 
