@@ -32,82 +32,87 @@ baraiyavishalbhai32@gmail.com
 
 ---
 
-## Tech Stack & Skills
+<details>
+<summary><b>Tech Stack & Skills</b></summary>
 
-<table>
-<tr>
+<br>
 
-<td width="50%" valign="top">
+## Languages
 
-### Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,python,js,ts,cs" />
+</p>
 
-**Languages**
-- C
-- Java
-- Python
-- JavaScript
-- C#
+---
 
-**Frontend**
-- React
-- Next.js
-- HTML
-- CSS
+## Frontend Development
 
-**Backend**
-- ASP.NET Core
-- Node.js
-- Express.js
-- NestJS
-- Flask
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
 
-**Databases**
-- MongoDB
-- SQL Server
-- PostgreSQL
+<p>
+<img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Razor%20Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
+</p>
 
-**AI / Data**
-- Machine Learning
-- Deep Learning
+---
 
-**DevOps**
-- Git
-- GitHub
-- Docker
-- CI/CD (Basics)
+## Backend Development
 
-**Tools**
-- Postman
-- VS Code
-- Visual Studio
-- SSMS
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,dotnet" />
+</p>
 
-</td>
+---
 
-<td width="50%" valign="top">
+## Databases
 
-### Skills
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
 
-- Data Structures & Algorithms
-- Problem Solving
-- Backend Development
-- API Design
-- REST API Development
-- System Design (Learning)
-- Debugging & Optimization
-- Open Source Contribution
+<p>
+<img src="https://img.shields.io/badge/SQL%20Server-red?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
-### Currently Learning
+---
 
-- Blockchain
-- Advanced Backend Architecture
-- Machine Learning  
-- Deep Learning  
+## Core Skills
 
-</td>
+- **Data Structures & Algorithms**
+- **Problem Solving**
+- **Backend Development**
+- **API Design**
+- **REST API Development**
+- **System Design (Currently Learning)**
+- **Debugging & Optimization**
+- **Open Source Contribution**
 
-</tr>
-</table>
+---
+
+## Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+- **Machine Learning**
+- **Deep Learning**
+- **Blockchain**
+- **Advanced Backend Architecture**
+- **DevOps Basics**
+
+---
+
+## Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" />
+</p>
+
+</details>
 
 ---
 
@@ -124,7 +129,12 @@ Key contributions:
 
 ---
 
-# GitHub Stats
+<details>
+<summary><b>GitHub Stats & Activity</b></summary>
+
+<br>
+
+## GitHub Stats
 
 <p align="center">
 
@@ -136,7 +146,7 @@ Key contributions:
 
 ---
 
-# Contribution Streak
+## Contribution Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=mr-baraiya&theme=tokyonight"/>
@@ -144,20 +154,24 @@ Key contributions:
 
 ---
 
-# GitHub Activity Graph
+## GitHub Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-baraiya&theme=tokyo-night"/>
 </p>
 
+</details>
+
 ---
 
 # Connect With Me
 
-<p align="center">
-
+<p>
 <a href="https://www.linkedin.com/in/baraiya-vishalbhai/">
-<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" height="35"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" height="35"/>
 </a>
 
+<a href="https://x.com/baraiya1014">
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968830.png" height="35"/>
+</a>
 </p>
