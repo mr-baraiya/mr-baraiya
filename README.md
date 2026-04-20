@@ -116,22 +116,6 @@ baraiyavishalbhai32@gmail.com
 
 ---
 
-# Open Source Contributions
-
-Contributor to **[Webpack Documentation](https://github.com/webpack/webpack.js.org)**
-
-### Key Contributions
-
-* Fixed stale timeout bug in `CodeBlockWithCopy`
-* Improved accessibility and semantic markup
-* Replaced invalid `<a>` elements with accessible buttons
-* Fixed documentation typos and broken links
-
-**View all contributions:**
-https://github.com/webpack/webpack.js.org/pulls?q=is%3Apr+author%3Amr-baraiya
-
----
-
 <details>
 <summary><b>GitHub Stats & Activity</b></summary>
 
