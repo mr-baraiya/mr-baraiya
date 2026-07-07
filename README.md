@@ -117,6 +117,7 @@ baraiyavishalbhai32@gmail.com
 ---
 
 <details>
+  
 <summary><b>GitHub Stats & Activity</b></summary>
 
 <br>
@@ -124,11 +125,8 @@ baraiyavishalbhai32@gmail.com
 ## GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mr-baraiya&show_icons=true&theme=tokyonight" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-baraiya&layout=compact&theme=tokyonight" height="170">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-baraiya&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-baraiya&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -136,7 +134,7 @@ baraiyavishalbhai32@gmail.com
 ## Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=mr-baraiya&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=mr-baraiya&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -144,7 +142,7 @@ baraiyavishalbhai32@gmail.com
 ## GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-baraiya&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-baraiya&theme=tokyo-night&hide_border=true"/>
 </p>
 
 </details>
